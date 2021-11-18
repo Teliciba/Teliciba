@@ -1,4 +1,1 @@
-- 👋 Merhaba, Ben @Teliciba.
-- 👀 Kodlama ile uğraşıyorum.
-- 🌱 Şuan C# öğreniyorum.
-- 📫 Bana ulaşmak için[YAKINDA]
+- 👋 Merhaba, Ben @Telic.
